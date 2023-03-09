@@ -1,0 +1,9 @@
+.button_container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 0.5rem;
+    border-radius: 0.5rem;
+    background: rgb(175, 174, 174);
+    padding: 1rem;
+}

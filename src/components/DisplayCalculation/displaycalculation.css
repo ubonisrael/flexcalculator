@@ -1,0 +1,10 @@
+.display_calculation {
+  width: 18rem;
+  height: 3rem;
+  padding: 0.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
